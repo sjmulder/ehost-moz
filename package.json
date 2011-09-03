@@ -1,0 +1,9 @@
+{
+    "name": "ehost", 
+    "fullName": "eHo.st", 
+    "description": "Adds an “Upload to eHo.st” context menu item.",
+    "license": "BSD", 
+    "author": "Sijmen Mulder <sjmulder@gmail.com>", 
+    "version": "1.0", 
+    "id": "jid1-4CR1EyOLnh7TZg"
+}
