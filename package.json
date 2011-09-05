@@ -5,5 +5,7 @@
     "license": "BSD", 
     "author": "Sijmen Mulder <sjmulder@gmail.com>", 
     "version": "1.0", 
-    "id": "jid1-4CR1EyOLnh7TZg"
+    "id": "jid1-4CR1EyOLnh7TZg",
+	"icon": "data/icon-32.png",
+	"icon64": "data/icon-64.png"
 }
