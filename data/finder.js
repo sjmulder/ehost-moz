@@ -48,11 +48,12 @@ var getLargestImage = function() {
 	return largestImage.src;
 };
 
-var findImageUrl = function() {
+var findImageUrl = function(options) {
+	options = options || {};
 	return (
 		getDocumentImage() || 
 		getImageSrcLinkImage() || 
 		getOpenGraphImage() ||
-		getLargestImage()
+		(options.allowLargestImage !== false ? getLargestImage() : null)
 	);
 };
