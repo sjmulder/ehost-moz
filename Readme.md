@@ -1,4 +1,4 @@
-Adds an “Upload Image to eHo.st” context menu item. (See: http://eho.st)
+Adds a widget and context menu item to upload images to eHo.st. (See: http://eho.st)
 
 New in version 1.1:
 
