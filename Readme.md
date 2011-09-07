@@ -1,5 +1,9 @@
 eHo.st is a community-owned image hosting service. This plugin lets you upload images directly from a widget and the context (right-click) menu on any web page.
 
+New in version 1.2:
+
+* Added Control+Shift+E shortcut, it works the same as the widget.
+
 New in version 1.1:
 
 * Added an Add-on Bar widget that automatically picks the page’s main image and uploads it to eHo.st.

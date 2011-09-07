@@ -4,7 +4,7 @@
     "description": "Adds a widget and context menu item to upload images to eHo.st.",
     "license": "BSD", 
     "author": "Sijmen Mulder <sjmulder@gmail.com>", 
-    "version": "1.1", 
+    "version": "1.2", 
     "id": "jid1-4CR1EyOLnh7TZg",
 	"icon": "data/icon-32.png",
 	"icon64": "data/icon-64.png"
